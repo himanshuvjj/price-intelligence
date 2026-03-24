@@ -14,3 +14,7 @@
 [2026-03-23 18:24:43] ✅ Success — ₹16999.0 — Apple iPhone 15 (128 GB) - Black
 [2026-03-23 18:24:43] 🏁 Scraper finished
 
+[2026-03-24 13:33:07] 🚀 Scraper started
+[2026-03-24 13:33:13] ⚠️ Price not found — possible block
+[2026-03-24 13:33:13] 🏁 Scraper finished
+
