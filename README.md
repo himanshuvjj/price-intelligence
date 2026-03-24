@@ -2,7 +2,7 @@
 
 A real-time price tracking and prediction system for e-commerce products.
 
-## 🚀 What This Does
+## 🚀 What This Does 
 - Scrapes product prices from Amazon automatically
 - Stores price history in a database
 - Analyzes price trends over time
