@@ -38,7 +38,8 @@ def daily_update():
     run_command(f'git commit -m "{commit_message}"')
 
     print("\nPushing to GitHub...")
-    run_command("git push origin main")
+    run_command("git pull origin main --no-edit")  # Pull first
+    run_command("git push origin main")             # Then push
 
     print("\nDone! Streak is safe!")
 
