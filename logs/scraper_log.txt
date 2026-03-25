@@ -26,3 +26,7 @@
 [2026-03-24 13:45:56] ⚠️ Price not found — possible block
 [2026-03-24 13:45:56] 🏁 Scraper finished
 
+[2026-03-25 15:21:45] 🚀 Scraper started
+[2026-03-25 15:21:47] ⚠️ Price not found — possible block
+[2026-03-25 15:21:47] 🏁 Scraper finished
+
