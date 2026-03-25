@@ -79,6 +79,8 @@ def search_amazon(query):
     except Exception as e:
         print(f"Error: {e}")
         return []
+    
+    
 
 # ============================================
 # FUNCTION 2 : SHOW RESULTS TO USER
